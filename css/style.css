@@ -4516,12 +4516,12 @@ hr {
 
 .btn--secondary {
     color: #fff;
-    background: #f67a3c
+    background: #003CB2;
 }
 
 .btn--secondary:hover {
     color: #fff;
-    background: #f8905c
+    background: #1062fe;
 }
 
 .btn--secondary.drop-enabled,
@@ -4529,7 +4529,7 @@ hr {
 .btn--secondary:active,
 .btn--secondary:focus {
     color: #fff;
-    background: #ba4409
+    background: #003CB2;
 }
 
 .btn--success {
@@ -4847,7 +4847,7 @@ hr {
 }
 
 .btn--link.btn--primary:hover {
-    color: #52399e
+    color: #1062fe;
 }
 
 .btn--link.btn--primary.drop-enabled,
@@ -4859,7 +4859,7 @@ hr {
 }
 
 .btn--link.btn--secondary {
-    color: #f67a3c
+    color: #003CB2;
 }
 
 .btn--link.btn--secondary:hover {
@@ -15900,7 +15900,7 @@ screen and (-ms-high-contrast:active) {
 }
 
 .text-secondary {
-    color: #f67a3c !important
+    color: #003CB2 !important
 }
 
 .text-success {
@@ -18346,13 +18346,13 @@ screen and (-ms-high-contrast:active) {
 .section--legal .section__links-group a.active {
     text-decoration: underline;
     text-underline-offset: 8px;
-    color: #6b4dc4
+    color: #1062fe;
 }
 
 .section .features .feature__pricing+.feature__actions .btn__text,
 .section .features .feature__pricing .pricing__amount,
 .section .features .feature__pricing .pricing__period {
-    color: #2b1f51
+    color: #2b1f51;
 }
 
 .section .features .feature__pricing+.feature__actions .btn__text svg path {
@@ -18360,11 +18360,11 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section .features .feature__pricing+.feature__actions:hover .btn__text {
-    color: #f67a3c
+    color: #1062fe;
 }
 
 .section .features .feature__pricing+.feature__actions:hover .btn__text svg path {
-    stroke: #f67a3c
+    stroke: #1062fe;
 }
 
 .section--sides.section--graphic-right .section__graphic--sm {
@@ -18928,7 +18928,8 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section .nav--tabs .nav__item.is-active .nav__link {
-    color: #f67a3c
+    color: #1062fe;
+    ;
 }
 
 .section .nav--tabs .nav__item.is-active .nav__link:hover label.tooltip svg path:not(:last-of-type),
@@ -18971,7 +18972,7 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section .nav--tabs .nav__item:hover .nav__link {
-    color: #f67a3c
+    color: #1062fe;
 }
 
 .section .nav--tabs .nav__item:after {
@@ -18981,7 +18982,7 @@ screen and (-ms-high-contrast:active) {
     left: 50%;
     right: 50%;
     bottom: 0;
-    background-color: #f67a3c;
+    background-color: #1062fe;
     transition: left .3s ease, right .3s ease
 }
 
@@ -19031,12 +19032,12 @@ screen and (-ms-high-contrast:active) {
 
 .section .nav--tabs-secondary .nav__item.is-active,
 .section .nav--tabs-secondary .nav__item:hover {
-    border-color: #f67a3c
+    border-color: #1062fe;
 }
 
 .section .nav--tabs-secondary .nav__item.is-active .ellipse {
     border-width: 7px;
-    border-color: #f67a3c
+    border-color: #1062fe;
 }
 
 .section--migrate-website .section__image {
@@ -19167,7 +19168,7 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section--banner-footer .section__title span {
-    color: #6b4dc4
+    color: #003CB2;
 }
 
 .section--banner-footer .section__actions {
@@ -19183,7 +19184,7 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section--banner-footer .section__actions a:first-of-type:hover {
-    color: #f67a3c
+    color: #1062fe;
 }
 
 .section--banner-footer .section__actions>* {
@@ -19517,7 +19518,7 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section--timeline .feature__date p {
-    color: #f67a3c;
+    color: #003CB2;
     font-weight: 900;
     margin: 0
 }
@@ -20289,7 +20290,7 @@ screen and (-ms-high-contrast:active) {
 }
 
 .section--earnings .section__content-footer input:focus {
-    border-color: #f67a3c;
+    border-color: #1062fe;
     outline: none
 }
 
@@ -24439,7 +24440,7 @@ screen and (-ms-high-contrast:active) and (max-width:751px) {
 }
 
 .features--sides .feature__icon svg path {
-    stroke: #f67a3c
+    stroke: #003CB2;
 }
 
 .features--sides .feature--web-hosting .feature__icon svg {
@@ -27250,7 +27251,7 @@ screen and (-ms-high-contrast:active) and (max-width:751px) {
 
 .banner.overlap-lg+.section .nav--tabs .nav__item.is-active .nav__link,
 .banner.overlap-lg+.section .nav--tabs .nav__item .nav__link:hover {
-    color: #f67a3c
+    color: #1062fe;
 }
 
 .banner.overlap-xl {
@@ -30841,7 +30842,7 @@ textarea.form-control.form-control--xlg {
 }
 
 .offer--box-location svg path {
-    stroke: #f67a3c
+    stroke: #1062fe;
 }
 
 .offer--box.border .offer--box-left {
@@ -31761,7 +31762,7 @@ textarea.form-control.form-control--xlg {
 }
 
 .package__features-group:nth-of-type(3) .package__title {
-    color: #f67a3c
+    color: #003CB2;
 }
 
 .package--secondary {
@@ -32236,7 +32237,7 @@ textarea.form-control.form-control--xlg {
 }
 
 .pricing__coupon .coupon svg path {
-    stroke: #f67a3c
+    stroke: #003CB2;
 }
 
 .swiper-pagination {
@@ -33443,7 +33444,7 @@ textarea.form-control.form-control--xlg {
 
 .pricing__amount {
     display: flex;
-    color: #f67a3c;
+    color: #1062fe;
     margin-bottom: 0;
     font-weight: 800
 }
@@ -33488,7 +33489,7 @@ textarea.form-control.form-control--xlg {
 
 .pricing__save {
     background-color: #fee9df;
-    color: #f67a3c;
+    color: #003CB2;
     font-weight: 600;
     padding: 2px 8px;
     border-radius: 4px;
@@ -33523,16 +33524,16 @@ textarea.form-control.form-control--xlg {
 }
 
 .btn.btn--link {
-    color: #f67a3c;
+    color: #003CB2;
     font-weight: 600
 }
 
 .btn.btn--link:hover {
-    color: #f8905c
+    color: #1062fe;
 }
 
 .btn.btn--link.has-arrow .btn__text svg path {
-    stroke: #f67a3c
+    stroke: #003CB2;
 }
 
 .btn.btn--outline.btn--white {
@@ -37227,7 +37228,7 @@ table.dataTable tbody td {
 }
 
 .btn.btn--primary.btn--link {
-    color: #6b4dc4
+    color: #003CB2;
 }
 
 *+.h4,
